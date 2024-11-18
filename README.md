@@ -3,7 +3,7 @@
 🚀 Transforme seus arquivos .wad, .app e .bin facilmente com esta ferramenta desenvolvida para a comunidade Wii.
 
 O que é?
-Esta aplicação permite compactar e descompactar arquivos .wad, .app e .bin de maneira simples e rápida, utilizando binários poderosos como libWiiSharp.dll, Sharpii.exe, e WadInstaller.dll. É perfeita para quem trabalha com arquivos de jogos, mods ou emuladores do Nintendo Wii, especialmente para quem deseja organizar ou modificar o conteúdo desses arquivos.
+Esta aplicação permite compactar e descompactar arquivos .wad, .app e .bin de maneira simples e rápida, utilizando binários poderosos como libWiiSharp.dll, by leathl. É perfeita para quem trabalha com arquivos de jogos, mods ou emuladores do Nintendo Wii, especialmente para quem deseja organizar ou modificar o conteúdo desses arquivos.
 
 Com o simples arraste e soltura de arquivos, você pode:
 
@@ -33,7 +33,7 @@ Como Usar?
 Pré-requisitos:
 
 Windows
-Biblioteca libWiiSharp.dll, Sharpii.exe e WadInstaller.dll (todos estão embutidos no programa).
+Biblioteca libWiiSharp.dll, (Está embutida no programa).
 Passos:
 
 Baixe o repositório e compile o código ou utilize o executável já compilado.
@@ -54,7 +54,7 @@ Textos personalizados que incluem a assinatura de Lobo Nintendista em cada títu
 Tecnologias Utilizadas
 C: A linguagem principal da aplicação.
 Windows API: Para a criação de janelas e caixas de mensagens.
-Binários: libWiiSharp.dll, Sharpii.exe, WadInstaller.dll para manipulação dos arquivos.
+Binários: libWiiSharp.dll para manipulação dos arquivos. (já embutido no programa).
 Contribuições
 Se você tem sugestões, melhorias ou correções, fique à vontade para abrir uma issue ou um pull request. Agradecemos muito sua ajuda para tornar esta ferramenta ainda mais útil!
 
