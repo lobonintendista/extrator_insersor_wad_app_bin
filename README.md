@@ -1,6 +1,6 @@
 #  Ferramenta de Compactação e Descompactação 'extrator_insersor_wad_app_bin' - by Lobo Nintendista
 
-🚀 c# Transforme seus arquivos .wad, .app e .bin facilmente
+🚀 # Transforme seus arquivos .wad, .app e .bin facilmente
 
 Esta ferramenta foi desenvolvida para a comunidade Wii, permitindo compactar e descompactar arquivos `.wad`, `.app` e `.bin` de forma simples e rápida, utilizando binários poderosos como `libWiiSharp.dll`, de **leathl**. Ideal para quem trabalha com arquivos de jogos, mods ou emuladores do Nintendo Wii, especialmente para quem deseja organizar ou modificar o conteúdo desses arquivos.
 
