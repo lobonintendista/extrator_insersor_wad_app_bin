@@ -1,0 +1,1 @@
+# extrator_insersor_wad_app_bin
