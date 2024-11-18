@@ -32521,7 +32521,7 @@ int main(int argc, char *argv[]) {
             executeCommand(command);
             show_message("Compactação Completa", "A pasta foi compactada em um novo arquivo BIN com sucesso usando binários libWiiSharp.dll by leathl.");
         } else {
-            show_message("Erro", "Funciona com arquivos do tipo: .wad, .app ou .bin\nArraste seu arquivo para cima do programa\n para descompactar ou compactar.");
+            show_message("Aviso:", "Funciona com arquivos do tipo: .wad, .app ou .bin\nArraste seu arquivo para cima do programa\n para descompactar ou compactar");
             getchar();
             return 1;
         }
